@@ -15,7 +15,7 @@ body {
   
   padding: 60px;
   text-align: center;
-  background: #d9e2e0;
+  background: #90C695;
   color: rgb(10, 8, 8);
   font-size: x-large;
   /*   line-height: 100vh; */
@@ -48,7 +48,7 @@ nav ul {
   text-align: right;
   position: fixed;
   width: 100%;
-  background-color: #e0ebe8;
+  background-color: #e0ebe8b6;
 }
 
 nav ul li {
